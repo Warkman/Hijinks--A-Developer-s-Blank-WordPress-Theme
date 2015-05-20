@@ -1,1 +1,7 @@
+Call in the:
 
+Content:
+<?php the_content(); ?>
+
+Excerpt:
+<?php the_excerpt(); ?>
